@@ -7,7 +7,7 @@ An unecessarily bright and intoxicatingly rad super dope setup for looking extra
 In order to make your terminal look cooler than everybody elses, you're gonna need the following:
 
 * ![Alacritty](https://alacritty.org/) because stock terminals are for babies
-* Some ![Alacritty themes](https://github.com/eendroroy/alacritty-theme), I'm using tokyo-night
+* Some ![Alacritty themes](https://github.com/alacritty/alacritty-theme), I'm using tokyo-night
 * ![Oh My ZSH](https://ohmyz.sh/) because lots of smart people use it and you'll feel smarter if you use it
 * Tmux because I said so
 *  The Tmux Plugin Manager or ![tpm](https://github.com/tmux-plugins/tpm) for short
@@ -18,6 +18,10 @@ You're also gonna need about 15 minutes to follow the preceeding setup guide bec
 
 # OSX setup
 The image above was taken on a Mac, you should be able to produce something near identical using these instructions.
+
+## The quick and dirty version
+
+1.  Install Alacritty using
 
 ## Alacritty
 
