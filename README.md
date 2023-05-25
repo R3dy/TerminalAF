@@ -3,7 +3,7 @@
 [![](https://dcbadge.vercel.app/api/server/D5QTtWEwxZ)](https://discord.gg/D5QTtWEwxZ)
 
 # TerminalAF
-An unecessarily bright and intoxicatingly rad super dope setup for looking extra cool while you're doing terminal stuff on Zoom in front of other people ;)
+An unnecessarily bright and intoxicatingly rad super dope setup for looking extra cool while you're doing terminal stuff on Zoom in front of other people ;)
 
 ![](./screenshots/terminalaf.png)
 
@@ -18,7 +18,7 @@ In order to make your terminal look cooler than everybody elses, you're gonna ne
 * [NvChad](https://nvchad.com/), or whatever Neovim setup you prefer
 * A [Nerd Font](https://www.nerdfonts.com/font-downloads), I use SauceCodePro
 
-You're also gonna need about 15 minutes to follow the preceeding setup guide because I'm just not cool enough to make a one-liner :(
+You're also gonna need about 15 minutes to follow this setup guide because I'm just not cool enough to make a one-liner :(
 
 # OSX setup
 The image above was taken on a Mac, you should be able to produce something near identical using these instructions.
