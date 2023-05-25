@@ -21,9 +21,13 @@ The image above was taken on a Mac, you should be able to produce something near
 
 ## The quick and dirty version
 
-1.  Install Alacritty using
 
 ## Alacritty
+1. Install Alacritty using the macOS binary from https://alacritty.org
+2. Create the `~/.config/alacritty/` directory if it doesn't already exist
+3. Follow the instructions from the alacritty-theme git repo to create the `~/.config/alacritty/themes` directory and then clone the repo there
+4. Finally, copy the `alacritty.yml` file from this repo to your `~/.config/alacritty/` directory
+
 
 ## OhMyZsh
 
