@@ -27,6 +27,19 @@ The image above was taken on a Mac, you should be able to produce something near
 
 
 ## OhMyZsh
+1. Check out the one-liner from the Oh My ZSH [install](https://ohmyz.sh/#install) page.
+2. Add the following somewhere in your `~/.zshrc`
+
+```bash
+export TERM="xterm-256color"
+export PATH="$PATH:~/.config/nvim/bin"
+export PATH="$PATH:$HOME/.tmux/plugins/tpm"
+export PATH="$PATH:~/.config/nvim/bin"
+alias vim="/opt/homebrew/bin/nvim"
+
+alias nano="/opt/homebrew/bin/nvim"
+# lol jk ;-) 
+```
 
 ## Tmux
 
