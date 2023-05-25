@@ -6,13 +6,13 @@ An unecessarily bright and intoxicatingly rad super dope setup for looking extra
 # Dependencies (because I can't spell prerequesitsises...?)
 In order to make your terminal look cooler than everybody elses, you're gonna need the following:
 
-* ![Alacritty](https://alacritty.org/) because stock terminals are for babies
-* Some ![Alacritty themes](https://github.com/alacritty/alacritty-theme), I'm using tokyo-night
-* ![Oh My ZSH](https://ohmyz.sh/) because lots of smart people use it and you'll feel smarter if you use it
+* [Alacritty](https://alacritty.org/) because stock terminals are for babies
+* Some [Alacritty themes](https://github.com/alacritty/alacritty-theme), I'm using tokyo-night
+* [Oh My ZSH](https://ohmyz.sh/) because lots of smart people use it and you'll feel smarter if you use it
 * Tmux because I said so
-*  The Tmux Plugin Manager or ![tpm](https://github.com/tmux-plugins/tpm) for short
-* ![NvChad](https://nvchad.com/), or whatever Neovim setup you prefer
-* A ![Nerd Font](https://www.nerdfonts.com/font-downloads), I use SauceCodePro
+*  The Tmux Plugin Manager or [tpm](https://github.com/tmux-plugins/tpm) for short
+* [NvChad](https://nvchad.com/), or whatever Neovim setup you prefer
+* A [Nerd Font](https://www.nerdfonts.com/font-downloads), I use SauceCodePro
 
 You're also gonna need about 15 minutes to follow the preceeding setup guide because I'm just not cool enough to make a one-liner :(
 
