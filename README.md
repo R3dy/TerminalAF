@@ -43,6 +43,9 @@ alias nano="/opt/homebrew/bin/nvim" # lolol jk ;-)
 Optionally, you can choose from one of the prebuilt [themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes).  I'm using [this one](https://github.com/win0err/aphrodite-terminal-theme).
 
 ## Tmux
+1.  A simple `brew install tmux` should do the trick
+2.  Follow the [installation](https://github.com/tmux-plugins/tpm) instructions for setting up tpm 
+3.  Copy over the `tmux.conf` file from this repo to your `~/.config/tmux/` directory. Make sure to run `prefix` + `I` while in a tmux session to install the plugins.
 
 ## Neovim with NvChad
 
