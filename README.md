@@ -5,7 +5,7 @@
 # TerminalAF
 An unnecessarily bright and intoxicatingly rad super dope setup for looking extra cool while you're doing terminal stuff on Zoom in front of other people ;)
 
-![](./screenshots/terminalaf.png)
+![](./screenshots/terminalaf-image.png)
 
 # Dependencies (because I can't spell prerequesitsises...?)
 In order to make your terminal look cooler than everybody elses, you're gonna need the following:
