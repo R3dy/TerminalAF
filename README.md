@@ -59,6 +59,6 @@ NvChad comes with a bunch of different vim themes, I'm using `gitub_dark`.  You 
 
 ## Nerd Font
 1.  I found [this guide](https://www.geekbits.io/how-to-install-nerd-fonts-on-mac/) for using brew to install nerd fonts super helpful and easy 
-2.  If you choose a different Nerd Font just make sure to update your ~/.config/alacritty/alacritty.yml` file
+2.  If you choose a different Nerd Font just make sure to update your `~/.config/alacritty/alacritty.yml` file
 
 
