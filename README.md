@@ -1,3 +1,7 @@
+**Checkout my Discord:**
+
+[![](https://dcbadge.vercel.app/api/server/D5QTtWEwxZ)](https://discord.gg/D5QTtWEwxZ)
+
 # TerminalAF
 An unecessarily bright and intoxicatingly rad super dope setup for looking extra cool while you're doing terminal stuff on Zoom in front of other people ;)
 
