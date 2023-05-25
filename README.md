@@ -37,9 +37,10 @@ export PATH="$PATH:$HOME/.tmux/plugins/tpm"
 export PATH="$PATH:~/.config/nvim/bin"
 alias vim="/opt/homebrew/bin/nvim"
 
-alias nano="/opt/homebrew/bin/nvim"
-# lol jk ;-) 
+alias nano="/opt/homebrew/bin/nvim" # lolol jk ;-) 
 ```
+
+Optionally, you can choose from one of the prebuilt [themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes).  I'm using [this one](https://github.com/win0err/aphrodite-terminal-theme).
 
 ## Tmux
 
