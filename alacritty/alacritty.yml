@@ -1,0 +1,24 @@
+window:
+  padding:
+    x: 5
+    y: 5
+  class:
+    instance: Alacritty
+    general: Alacritty
+  opacity: 1
+
+font:
+  normal:
+    family: SauceCodePro Nerd Font
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+# Color scheme
+import:
+  - ~/.config/alacritty/themes/themes/tokyo-night.yaml
+
+env:
+  TERM: alacritty-256color
+
