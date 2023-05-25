@@ -44,9 +44,13 @@ Optionally, you can choose from one of the prebuilt [themes](https://github.com/
 
 ## Tmux
 1.  A simple `brew install tmux` should do the trick
-2.  Follow the [installation](https://github.com/tmux-plugins/tpm) instructions for setting up tpm 
+2.  Follow these [installation](https://github.com/tmux-plugins/tpm) instructions for setting up tpm 
 3.  Copy over the `tmux.conf` file from this repo to your `~/.config/tmux/` directory. Make sure to run `prefix` + `I` while in a tmux session to install the plugins.
 
 ## Neovim with NvChad
+1. Install neovim using `brew install noevim`
+2. Use this [one-liner](https://nvchad.com/docs/quickstart/install) to install NvChad which makes neovim extra awesome
+
+NvChad comes with a bunch of different vim themes, I'm using `gitub_dark`.  You can pick a theme by pressing `leader` (Spacebar by default) + `t` and then `h`
 
 ## Nerd Font
