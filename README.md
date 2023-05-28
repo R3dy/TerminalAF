@@ -52,7 +52,7 @@ Optionally, you can choose from one of the prebuilt [themes](https://github.com/
 3.  Copy over the `tmux.conf` file from this repo to your `~/.config/tmux/` directory. Make sure to run `prefix` + `I` while in a tmux session to install the plugins.
 
 ## Neovim with NvChad
-1. Install neovim using `brew install noevim`
+1. Install neovim using `brew install neovim`
 2. Use this [one-liner](https://nvchad.com/docs/quickstart/install) to install NvChad which makes neovim extra awesome
 
 NvChad comes with a bunch of different vim themes, I'm using `gitub_dark`.  You can pick a theme by pressing `leader` (Spacebar by default) + `t` and then `h`
